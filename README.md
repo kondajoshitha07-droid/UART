@@ -1,5 +1,5 @@
 # UART
-Designed and simulated a UART protocol module using Xilinx Vivado, enabling serial data transmission and reception through HDL-based implementation. Implemented and verified UART transmitter and receiver logic using simulation tools, ensuring accurate timing, data integrity, and protocol compliance.
+Designed and simulated a UART protocol module using Xilinx Vivado, enabling serial data transmission and reception through HDL-based implementation. Implemented and verified UART transmitter and receiver logic using simulation tools, ensuring accurate timing, data integrity, and protocol compliance
 📌 Overview
 
 This project implements a UART (Universal Asynchronous Receiver-Transmitter) protocol using Verilog HDL and simulates it entirely in Xilinx Vivado without requiring any physical hardware. The design includes both UART Transmitter (TX) and UART Receiver (RX) modules and verifies communication through simulation.
